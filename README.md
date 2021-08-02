@@ -3,7 +3,7 @@ Data analysis and Insights generations to determine which taxi cab company to in
 
 Link for the streamlit app: <https://house-rocket-insight-project.herokuapp.com/>
 
-![alt text](https://github.com/IgorQueiroz23031988/House-Sales-Data-Anaysis-and-Insights/blob/main/HOUSE%E2%80%99S%20BUY%20AND%20SALES%20DATA%20ANALYSIS%20AND%20INSIGHTS.png)
+![alt text](https://github.com/IgorQueiroz23031988/Taxi-Cab-Data-Analysis-and-Insights/blob/main/img/TAXI%20CAB%20DATA%20ANALYSIS%20AND%20INSIGHTS.PNG)
 
 ## 1. Business Problem/Understanding.
 
