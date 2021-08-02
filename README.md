@@ -68,16 +68,17 @@ Holiday |	Holiday name
 
 ## 3. Business Assumptions.
 
-After carefully research, some assumptions are taken based on several information obtained at website <https://www.kaggle.com/harlfoxem/housesalesprediction/discussion>.
+For further analysis, it is necessary to know the period of time of each season on US, those information will be included in a variable called Season. According to the website: <https://www.timeanddate.com/calendar/aboutseasons.html>, each season is specified on the followed days:
  
-Those assumptions lead to identify possible outliers’ existent on dataset. Such as:
- 
-*	Any house which contains no bathrooms or bedrooms is considered outlier, therefore it is excluded.
-*	Any house which the number of bedrooms is higher than 11 is considered outlier, therefore it is excluded.
+*	spring runs from March 1 to May 31;
+*	summer runs from June 1 to August 31;
+*	fall (autumn) runs from September 1 to November 30; and
+*	winter runs from December 1 to February 28 (February 29 in a leap year).
 
-Furthermore, some assumptions were made to identify the profit range by selling houses.
- 
-*	According the website: <https://www.prnewswire.com/news-releases/average-us-home-seller-profits-hit-65-500-in-2019--another-new-high-300991828.html>, the minimal profit made by selling houses In US is 10%, the maximum is 45%. This profit range flouts due the houses characteristics, such as: location, size, number of bedrooms and others. 
+Due the dataset City.csv does not inform the State of two cities: SILICON VALLEY and ORANGE COUNTY, it is necessary specify the States of them.
+According to the website: <https://www.britannica.com/place/Silicon-Valley-region-California>, The SILICON VALLEY State is California, CA.
+Also according to the website: <https://en.wikipedia.org/wiki/Orange_County,_California>, The ORANGE COUNTY State is California, CA.
+
 
 ## 4. Solution Strategy.
 
