@@ -82,46 +82,28 @@ Also according to the website: <https://en.wikipedia.org/wiki/Orange_County,_Cal
 
 ## 4. Solution Strategy.
 
-As the company’s CEO wants answer for two different questions, the solution strategy is divided into 2 parts:<br/><br/>
+The answer for which Cab company XYZ firm should invest can be answered as 2 different ways:<br/><br/>
 
 
-* __First part:__ Which houses to buy?
+* __First part:__ How much money, taxi travels and customers each company made?
  
-1º - Collect data from kaggle’s website.
+1º - Group the variable Company by the variable Profit, and sum the amount of price for each company. This method shows a general perspective about each company in all cities and years.
  
-2º - Group them by region (zipcode), due this attribute is extremely influential on the house’s price.   
+2º - For taxi travels, it is possible do the same method, however, it is necessary replace the variable Profit by the variable Transaction Id.  
  
-3º - Find the house’s price median by region.
- 
-4º - Recommend that the houses with prices inferior to the median value should be bought, and the condition is minimal 3.  
- 
-5º - Filter those houses, that should be bought, by size, number of floors, number of bedrooms, and number of bathrooms, in order to identify the level of recommendation of each house.<br/><br/>
+3º - For customers, it is possible do the same method, however, it is necessary eliminate the duplications and replace the variable Profit by the variable Customer Id.<br/><br/>
  
  
-* __Second part:__ When to sell the houses and for how much?
+* __Second part:__ Here it is made a verification of the amount of money and taxi travels by region and season.
  
-__1º__ - After the company buys the houses, the data is grouped by region and seasons.
+__1º__ - Group the variable Company by the variable Profit and Region, and sum the amount of price for each company. This method shows a specific perspective about each company in each region. For taxi travels, it is possible do the same method; however, it is necessary replace the variable Profit by the variable Transaction Id.
  
-__2º__ - Inside each region and seasons, it is calculated the median price.   
- 
-__3º__ - If the buy price is higher than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 10 %. 
- 
-   If the buy price is higher than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 12.5 %.
- 
-   If the buy price is higher than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 15 %.
- 
-   If the buy price is lower than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 30 %.
- 
-   If the buy price is lower than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 37.5 %.
- 
-   If the buy price is lower than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 45 %.
- 
-__4º__ - It is specified the best moment to sell based on the profit by season.
- 
-__5º__ - It is specified the best moment to sell based on the profit by season and recommendation to buy in general and individual houses.
- 
-__6º__ - It is specified the total profit by buying and selling houses.
- 
+__2º__ - Same method is used than first one, however replace the variable Region by Season. This method shows a specific perspective about each company in each season.<br/><br/>
+
+The general and specific overview about price and clients will help the decision about which company XYZ should invest.<br/><br/>
+Furthermore hypotheses will be created to influence that decision as well. 
+
+
 ## 5. Top 08 Data Insights.
 
 __Hypothesis 01:__ Houses which has water view are 20% more expensive, in general.
