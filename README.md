@@ -161,15 +161,28 @@ __True:__ In total, there are 166884 (46.44%) young people more using taxi than 
 
 ## 6. Financial Results.
 
- House Rocket Company would have a profit of almost 19 percent, which are more than $771 million, if applies this data analytics method.
+ Yellow Cab Company has that percentage higher than Pink Cab Company:
+ 
+*	Number of taxi trips (52.86%);
+*	Profit (78.48%);
+*	Number of customers (35.73%). 
 
 ## 7. Conclusion.
 
-In conclusion, it is possible to identify that the application of data analytics project at dataset from House Rocket Company was very successful, providing a huge profit opportunity based on which houses to buy and when to sell.
+In conclusion, Yellow Cab Company has a higher number of taxi trips than Pink Cab Company, as well as a higher profit and higher number of customers.<br/><br/>
+
+The data also show that Yellow Cab has superior results in almost all cities, especially in New York, which is the city with the highest profit and higher number of taxi trips.<br/><br/>
+
+The same company also stands out from the other company in relation to the season, where the fall or spring (depending which measure is more important) season shows the highest profit and number of taxi trips as well.<br/><br/>
+
+Also other insights provided by the hypotheses, inform that Yellow Cab Company present better results than Pink Cab Company, however some of them shows that the number of taxi trips, the profit and the number of customers, for both Companies, are decreasing over the year, giving space for other Cab companies.<br/><br/>
+
+Due those all information, it is recommended to invest in Yellow Cab Company.<br/><br/>
+
 
 ## 8. Next Steps.
 
-Other project that can be made with this dataset is the exploration data analyses, which identify the best’s attributes in order to apply machine learning algorithms, with the objective to predict the price of futures houses to buy.
+Other project that can be made with this dataset is the exploration data analyses, which identify the best’s attributes in order to apply machine learning algorithms, with the objective to predict the number of taxi trips, the profit or the number of customers for each company.
 
 
 
