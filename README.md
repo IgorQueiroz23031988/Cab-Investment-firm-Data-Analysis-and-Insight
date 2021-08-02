@@ -104,45 +104,60 @@ The general and specific overview about price and clients will help the decision
 Furthermore hypotheses will be created to influence that decision as well. 
 
 
-## 5. Top 08 Data Insights.
+## 5. Top 10 Data Insights.
 
-__Hypothesis 01:__ Houses which has water view are 20% more expensive, in general.
+__Hypothesis 01:__ The number of users of the Yellow Cab plus Pink Cab is the same number of the Total Cab Users at every city.
 
-__False:__ Houses with water view are 212.57668803323867 percent more expensive.<br/><br/>
-
-
-__Hypothesis 02:__ Houses that was built before 1955 are 50% cheaper, in general.
-
-__False:__ Houses that was built before 1955 are -0.7757205525248732 percent cheaper.<br/><br/>
+__False:__ There are others Cab companies at each state, which the range of customers in others companies floats between 70% and 99%, depending of the state.<br/><br/>
 
 
-__Hypothesis 03:__ Houses without basement are 40% bigger them house with basement, related to total area (sqft_lot). 
+__Hypothesis 02:__ The number of users of the Yellow Cab is higher than the company Pink Cab in each city.
 
-__False:__ Houses without basement are 22.483151526642544 percent bigger them houses with basement.<br/><br/>
-
-
-__Hypothesis 04:__ The growth of house prices YoY (Year over Year) (May 2014 compared to May 2015) is 10%, in general. 
-
-__False:__ The total houses price YoY (Year over Year) suffered a decrease of -62.79177358882806 percent.<br/><br/>
+__False:__ There are cities where the Pink cab company has more customers than the Yellow cab company, cities such: San Diego, Nashville, Sacramento and Pitsburgh.<br/><br/>
 
 
-__Hypothesis 05:__ Houses with 3 bathrooms have a growth MoM (month over Month) of 15%.
+__Hypothesis 03:__ People uses more taxi during New Year's Day than other holidays in all 3 years.. 
 
-__False:__ The total houses price MoM (month over Month) suffered a decrease of -9.953899240174858 percent.<br/><br/>
-
-
-__Hypothesis 06:__ Houses with number of bedrooms above 8 have a number of bathrooms 40% higher than houses with number of bedrooms between 5 and 8, and 94% higher than houses with number of bedrooms between 1 and, 4 on average.
-
-__True:__ Houses with number of bedrooms above 8 have a number of bathrooms 39.9514563106796 percent higher than houses with number of bedrooms between 5 and 8, and 94.48676155875182 higher than houses with number of bedrooms between 1 and 4.<br/><br/>
-
-__Hypothesis 07:__ Houses with 7 bedrooms has the total area (sqft_lot) bigger between 132 to 320 percent than houses with 8 to 11 bedrooms, on average.
-
-__True:__ Houses with 7 bedrooms has the total area (sqft_lot) bigger between 132.29431644290653 and 320.17243208828523 percent than houses with 8 to 11 bedrooms.<br/><br/>
+__False:__ In total, the holiday which people uses more taxis is Veterans Day, However, splitting this in years, 2016 and 2018, Thanksgiving Day is the holiday which  people uses more taxis, and in 2017 the holiday is Veterans Day.<br/><br/>
 
 
-__Hypothesis 08:__ Renovated Houses have living rooms 12% bigger than houses not renovated, on average.
+__Hypothesis 04:__ The number of users for each company increases WoW (Week over Week).
 
-__True:__ Renovated Houses have living rooms 12.132344286788795 percent bigger than houses not renovated, on average.
+__False:__ The number of users for the company Yellow Cab Company WoW (Week over Week) suffered a decrease of 2.26 percent.<br/><br/>
+           The number of users for the company Pink Cab Company WoW (Week over Week) suffered a decrease of 2.39 percent.<br/><br/>
+
+
+__Hypothesis 05:__ The amount of money made by the cab companies increase YoY (Year over Year) and MoM (Month over Month).
+
+__False:__ The amount of money made by the company Yellow Cab Company YoY (Year over Year) suffered a decrease of 1.48 percent.<br/><br/>
+           And the amount of money made by the company Pink Cab Company YoY (Year over Year) suffered a decrease of 4.58 percent.<br/><br/>
+           However, the amount of money made by the company Yellow Cab Company MoM (Month over Month) suffered an increase of 1.81 percent.<br/><br/>
+           And the amount of money made by the company Pink Cab Company MoM (Month over Month) suffered an increase of 3.94 percent.<br/><br/>
+
+
+__Hypothesis 06:__ The number of travels made by the cab companies increase YoY (Year over Year) and MoM (Month over Month).
+
+__True:__ The number of travels made by the company Yellow Cab company YoY (Year over Year) suffered a decrease of 7.06 percent.<br/><br/>
+          And the number of travels made by the company Pink Cab company YoY (Year over Year) suffered a decrease of 8.01 percent.<br/><br/>
+          Also, the number of travels made by the company Yellow Cab Company MoM (Month over Month) suffered an increase of 3.35 percent.<br/><br/>
+          And the number of travels of money made by the company Pink Cab Company MoM (Month over Month) suffered an increase of 4.11 percent.<br/><br/>
+
+__Hypothesis 07:__ Companies make more profit during second semester of the year.
+
+__True:__ In total and in the second semester, the company Yellow Cab make $3770264.7852 (7.64%) more profit than the first semester.<br/><br/>
+          And in the second semester, the company Pink Cab make $2134648.873 (4.33%) more profit than the first semester.<br/><br/>
+
+__Hypothesis 08:__ People with the amount of income higher than the median uses more taxis.
+
+__False:__ People with the amount of income higher than the median uses less taxi than people which has income inferior than median, however this difference is minimal, which is 1 for Pink Cab company and 3 for Yellow Cab company.<br/><br/>
+
+__Hypothesis 09:__ Men use more cash than women for payment.
+
+__True:__ In total, the number of men using cash is 20978 (5.84%) more than women.<br/><br/>
+
+__Hypothesis 10:__ People with the amount of income higher than the median uses more taxis.
+
+__True:__ In total, there are 166884 (46.44%) young people more using taxi than old people.<br/><br/>
 
 ## 6. Financial Results.
 
