@@ -1,7 +1,7 @@
 # Taxi-Cab-Data-Analysis-and-Insights
 Data analysis and Insights generations to determine which taxi cab company to invest in.
 
-Link for the streamlit app: <https://house-rocket-insight-project.herokuapp.com/>
+
 
 ![alt text](https://github.com/IgorQueiroz23031988/Taxi-Cab-Data-Analysis-and-Insights/blob/main/img/TAXI%20CAB%20DATA%20ANALYSIS%20AND%20INSIGHTS.PNG)
 
