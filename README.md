@@ -26,7 +26,7 @@ The answer for those questions is presented in two different methods:
 *	Reports recommending which Cab company The firm XYZ should invest.
 *	A website created by the data analyst showing a table of which company has the higher amount of taxi travels, profit and customers. Also a collection of hypotheses and a dashboard is presented in order to auxiliary the CEO decisions.
  
-The tools used for this project are: Python 3.8, Pycharm, Jupyter Notebook, Streamlit and Heroku.
+The tools used for this project are: Python 3.8 and Jupyter Notebook.
 
 ## 2. Data Understanding.
 
