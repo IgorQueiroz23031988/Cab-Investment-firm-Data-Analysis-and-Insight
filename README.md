@@ -16,7 +16,7 @@ The object of this project is providing answer of the main questions made by the
 *	Which company provided more taxi travels?
 *	Which company has more customers?
 
- Also there are secondary questions that could help the CEO decision, which are?
+ Also there are secondary questions that could help the CEO decision, which are:
  
 *	Which area of US the Cab companies provide higher incomes and taxi travels?
 *	Which season of US the Cab companies provide higher incomes and taxi travels? 
