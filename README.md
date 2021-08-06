@@ -1,4 +1,4 @@
-# Taxi-Cab-Data-Analysis-and-Insights
+# Cab-Investment-firm-Data-Analysis-and-Insights
 Data analysis and Insights generations to determine which taxi cab company to invest in.
 
 
