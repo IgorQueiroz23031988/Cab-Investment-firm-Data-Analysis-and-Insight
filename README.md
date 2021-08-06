@@ -30,7 +30,7 @@ The tools used for this project are: Python 3.8 and Jupyter Notebook.
 
 ## 2. Data Understanding.
 
-There are 7 different datasets provided: <https://www.kaggle.com/nishantdhingra/cabs-fare-data>.
+There are 6 different datasets provided: <https://www.kaggle.com/nishantdhingra/cabs-fare-data>.
 
 * Cab_Data.csv – this file includes details of transaction for 2 cab companies;
 * Customer_ID.csv – this is a mapping table that contains a unique identifier which links the customer’s demographic details;
@@ -38,7 +38,7 @@ There are 7 different datasets provided: <https://www.kaggle.com/nishantdhingra/
 * City.csv – this file contains list of US cities, their population and number of cab users.
 * States – this file contains list of US cities, regions and divisions. – provided by website: <https://www.kaggle.com/omer2040/usa-states-to-region>
 * US-federal-holidays-2011-2020 – this file contains list of US holidays from 2011 to 2020. – provided by website: <https://data.world/sudipta/us-federal-holidays-2011-2020#>
-* Us-states.json
+
 
 
  Dataset list:
